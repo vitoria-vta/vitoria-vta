@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/vit%C3%B3ria-trindade-alves-446314242/" target="_blank">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-trindade-alves-446314242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:trindadealvesvitoria@gmail.com">
